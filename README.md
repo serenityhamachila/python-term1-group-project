@@ -1,2 +1,5 @@
 # python-term1-group-project
 School project python for Tech tribe
+SERENITY HAMACHILA 2024551495
+MICHEAL PHIRI 2025559268
+VICTOR SITIMA 2024550332
